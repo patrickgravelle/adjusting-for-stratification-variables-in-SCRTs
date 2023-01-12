@@ -2,7 +2,7 @@
 
 ## About
 
-Research article by Patrick Gravelle and Dr. Roee Gutman completed as part of Patrick Gravelle's doctoral dissertation for Brown's Biostatistics Department. Article submitted to Statistics in Medicine journal.
+Research article by Patrick Gravelle and Dr. Roee Gutman completed as part of Patrick Gravelle's doctoral dissertation for Brown's Biostatistics Department. Article submitted to Statistics in Medicine journal. This project was supported by the IMbedded Pragmatic Alzheimer’s Disease (AD) and AD-Related Dementias (AD/ADRD) Clinical Trials (IMPACT) Collaboratory Design and Statistics Core which is NIA grant U54AG063546.
 
 ## Abstract
 
